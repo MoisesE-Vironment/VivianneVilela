@@ -6,7 +6,7 @@ import { useRef, useState, type FormEvent } from "react";
 import { trpc } from "@/lib/trpc";
 import { ArrowDownRight, ArrowUpRight, Check, ChevronRight, Mail, Mic2, Play, Send, Sparkles, Users } from "lucide-react";
 
-const heroImage = "/manus-storage/vivianne-stage-hero_c85ee709.jpg";
+const heroImage = "/manus-storage/vivianne-stage-hero_c85ee709.jpeg";
 const heroPortrait = "/manus-storage/vivianne-hero-upscaled_a9c3e1ab.png";
 const portraitImage = "/manus-storage/vivianne-about-official_991f8023.jpg";
 const eventImage = "/manus-storage/vivianne-stage-official_73cd9f72.jpg";
